@@ -1,2 +1,2 @@
-# gr-fico
+# gráfico
 site com gráfico
